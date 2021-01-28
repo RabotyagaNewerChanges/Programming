@@ -26,14 +26,14 @@ public class Troll extends Essence implements Transformable{
     }
 
     public void touch(Essence essence) {
-        System.out.println(this.getName() + "дотронулся до: " + essence.getName());
+        System.out.println(this.getName() + " дотронулся до: " + essence.getName());
     }
     public void push(Essence essence) {
-        System.out.println(this.getName() + "толкнул: " + essence.getName());
+        System.out.println(this.getName() + " толкнул: " + essence.getName());
     }
 
     public void cry(String sentence) {
-        System.out.println(this.getName() + "крикнул: " + sentence);
+        System.out.println(this.getName() + " крикнул: " + sentence);
     }
 
     public void go(Place place) {
