@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "first_available_id": 1,
+    "creation_date_and_time": "2021-06-13T02:25:24.670709Z[GMT]",
+    "collection_type": "TreeSet"
+  },
+  "collection": [
+    {
+      "id": 1,
+      "name": "Some Company",
+      "coordinates": {
+        "x": 1,
+        "y": 2.0
+      },
+      "creation_date_and_time": "2021-06-13T02:25:24.670709Z[GMT]",
+      "annual_turnover": 1000000,
+      "full_name": "Some Company Incorporated",
+      "employees_amount": 10000,
+      "organization_type": "COMMERCIAL",
+      "postal_address": {
+        "zip_code": "650000",
+        "location": {
+          "x": 1.0,
+          "y": 2.0,
+          "location": "St. Petersburg"
+        }
+      }
+    }
+  ]
+}
